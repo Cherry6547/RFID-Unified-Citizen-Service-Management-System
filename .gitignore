@@ -1,0 +1,15 @@
+# Keil generated files
+*.htm
+*.lnp
+*.dep
+*.sct
+*.bak
+*.axf
+*.hex
+*.map
+*.lst
+*.o
+*.d
+*.crf
+*.plg
+*.uvgui.*
