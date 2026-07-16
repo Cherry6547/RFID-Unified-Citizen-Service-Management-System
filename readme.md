@@ -91,7 +91,7 @@ Application
   Officer Authentication      Dashboard
          │                       │
          ▼                       │
- Reset Voting Machine           │
+ Reset Voting Machine            │
                                  │
         ┌─────────────┬──────────┼───────────┐
         │             │          │           │
